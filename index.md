@@ -22,3 +22,4 @@ class Main {
 - [ ] say hi
 - [ ] say bye
 - [ ] say good night
+- [x] say 안녕하세요

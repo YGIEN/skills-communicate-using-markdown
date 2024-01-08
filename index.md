@@ -19,3 +19,6 @@ class Main {
   }
 }
 ```
+- [ ] say hi
+- [ ] say bye
+- [ ] say good night
